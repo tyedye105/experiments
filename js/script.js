@@ -43,22 +43,3 @@ $("form#num-form").submit(function(event) {
 // function saySomething(whatToSay) {
 //   alert(whatToSay);
 // }
-//
-//
-//
-//
-//
-// $(document).ready(function() {
-//   ["face", "Booty", "Boobies"].forEach(function(part) {
-//     alert("I love " + part + "!");
-//
-//   });
-//
-//   saySomething("but nugget!");
-//     alert(whatToSay);
-//
-//
-//
-//
-//
-// });
